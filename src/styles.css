@@ -1,0 +1,14 @@
+.simon-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+.button-squares {
+  max-width: 300px;
+  max-height: 300px;
+}
+
+img {
+  width: 100%;
+  opacity: 0.5;
+}
